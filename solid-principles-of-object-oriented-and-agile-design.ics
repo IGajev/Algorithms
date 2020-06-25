@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//O'Reilly//learning.oreilly.com//
+BEGIN:VEVENT
+SUMMARY:SOLID Principles of Object-Oriented and Agile Design
+DTSTART;VALUE=DATE-TIME:20200515T150000Z
+DTEND;VALUE=DATE-TIME:20200515T180000Z
+DTSTAMP;VALUE=DATE-TIME:20200513T083221Z
+UID:0636920392798-0636920392828
+DESCRIPTION:Robert C. “Uncle Bob” Martin is a software craftsman\, and
+  one of the leading names in contemporary software development. His books 
+ and videos are immensely popular.\n\nIn this unique live training session\
+ , Uncle Bob will use his signature presentation style to explain the benef
+ its of the SOLID approach to application development. Crafted and defined 
+ through decades of first-hand design experience\, SOLID has five principle
+ s that\, when followed\, make software designs easier to understand\, more
+  flexible\, and less problematic to maintain.\n\nGo to the event (https://
+ learning.oreilly.com/live-training/courses/solid-principles-of-object-orie
+ nted-and-agile-design/0636920392798/join/)\n
+LOCATION:Online
+ORGANIZER;CN=O´REILLY MEDIA:mailto:donotreply@oreilly.com
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+X-ALT-DESC;FMTTYPE=TEXT/HTML:\n<p>Robert C. “Uncle Bob” Martin is a so
+ ftware craftsman\, and one of the leading names in contemporary software d
+ evelopment. His books and videos are immensely popular.</p>\n<p>In this un
+ ique live training session\, Uncle Bob will use his signature presentation
+  style to explain the benefits of the SOLID approach to application develo
+ pment. Crafted and defined through decades of first-hand design experience
+ \, SOLID has five principles that\, when followed\, make software designs 
+ easier to understand\, more flexible\, and less problematic to maintain.</
+ p>\n<p><a href="https://learning.oreilly.com/live-training/courses/solid-p
+ rinciples-of-object-oriented-and-agile-design/0636920392798/join/">Go to t
+ he event</a></p>\n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SOLID Principles of Object-Oriented and Agile Design
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
